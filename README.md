@@ -18,4 +18,4 @@ The aim of the project is to reimplement STL containers (C++98).
  • Set
 
 
-Created in January-February 2021
+Created in February 2021
